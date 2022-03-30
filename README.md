@@ -1,7 +1,7 @@
 # Team Profile Generator 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-## Deplyed Application Link: https://mmvrstudio.github.io/OOP_Team_Profile_Generator/
+## Deployed Application Link: https://mmvrstudio.github.io/OOP_Team_Profile_Generator/
 
 ## Description 
 - This application generates an entertaining team profile based on user input.
