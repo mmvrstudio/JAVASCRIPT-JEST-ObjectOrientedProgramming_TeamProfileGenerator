@@ -111,13 +111,13 @@ const generateTeamPage = function (employeeCards) {
   <body>
       <header>
           <nav class="navbar" id="navbar">
-              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text">Team Profile</span>
+              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text">Addams Team Profile</span>
           </nav>
       </header>
       <main>
           <div class="container">
               <div class="row justify-content-center" id="team-cards">
-                  <!--Team Cards-->
+                  <!--Addams Team Cards-->
                   ${employeeCards}
               </div>
           </div>
