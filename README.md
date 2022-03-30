@@ -4,7 +4,7 @@
 ## Description 
 - This application generates an entertaining team profile based on user input.
 - This applcation uses the Inquirer module from Node.js.
-- The app fisplays the information on a html page and demonstrates use of OOP and TDD on the back end using Jest. 
+- The app displays the information on a html page and demonstrates use of OOP.
  
 ## Table of Contents
 * [Installation](#installation)
@@ -18,9 +18,6 @@
 
 ## License 
 - This project is license under MIT
-
-## Contributing 
-- Contributors should read the installation section. 
 
 ## Tests
 - Run `npm test` to run Jest for tests on constructors. 
