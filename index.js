@@ -73,9 +73,9 @@ const addManager = () => {
 
 const addEmployee = () => {
     console.log(`
-    =================
-    Let's Add New Employees to the Team!
-    =================
+    -----------------------------------
+    Below Add new Employees to the Team
+    -----------------------------------
     `);
 
     return inquirer.prompt ([
